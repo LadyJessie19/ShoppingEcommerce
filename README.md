@@ -49,7 +49,10 @@ If you have suggestions or improvements for this project, feel free to open a pu
 
 ## 🙋‍♀️ **Author:**
 
-![Jessie](./md_images/jessie-dev.jpg)
+
+<img src="./md_images/jessie-dev.jpg" width="200">
+
 [Jessie M. Bentes](https://github.com/LadyJessie19)
+
 
 Hope you find this project useful and enjoy exploring the functionalities! 🚀
